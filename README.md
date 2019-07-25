@@ -19,4 +19,4 @@ $ bash get-networks.sh
 ```
 # Test run using
 
-''' python predict.py -c config.json -w <trained weights path> -i ./images/test<'i'>.mp4 '''
+ python predict.py -c config.json -w {trained weights path} -i ./images/test{'i'}.mp4 
